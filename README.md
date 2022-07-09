@@ -7,7 +7,7 @@ Freelance React & JavaScript Developer
 I am obsessively delivering silky-smooth user interfaces and robust web applications.
 
 * 🌍  I'm based in Prague
-* 🖥️  See my portfolio at [Portfolio](http://jurkin.io)
+* 🖥️  See my portfolio at [jurkin.io](http://jurkin.io)
 * ✉️  You can contact me at [andrej@jurkin.io](mailto:andrej@jurkin.io)
 * 🧠  I'm learning Solidity, Web3.js, Ethers.js
 * ⚡  I'm both left-handed & right-handed at the same time. Weird.
