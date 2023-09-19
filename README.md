@@ -4,13 +4,11 @@ Hi 👋 My name is Andrej
 Freelance React & JavaScript Developer
 --------------------------------------
 
-I am obsessively delivering silky-smooth user interfaces and robust web applications.
-
 * 🌍  I'm based in Prague
+* ✌️  I've built *the best* ChatGPT app for macOS [getbeam.ai](https://getbeam.ai) which provides a one-click access to GPT-4 anytime you need it, anywhere on your mac!
 * 🖥️  See my portfolio at [jurkin.io](http://jurkin.io)
 * ✉️  You can contact me at [andrej@jurkin.io](mailto:andrej@jurkin.io)
 * 🧠  I'm learning Solidity, Web3.js, Ethers.js
-* ⚡  I'm both left-handed & right-handed at the same time. Weird.
 
 <a href="https://www.twitter.com/reactive_dude" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/reactive_dude?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
